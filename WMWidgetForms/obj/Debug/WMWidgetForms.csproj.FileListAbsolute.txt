@@ -9,3 +9,15 @@ D:\Школледж\Групповой проект WMWidget\WMWidgetForms\WMWid
 D:\Школледж\Групповой проект WMWidget\WMWidgetForms\WMWidgetForms\obj\Debug\WMWidgetForms.exe
 D:\Школледж\Групповой проект WMWidget\WMWidgetForms\WMWidgetForms\obj\Debug\WMWidgetForms.pdb
 D:\Школледж\Групповой проект WMWidget\WMWidgetForms\WMWidgetForms\obj\Debug\WMWidgetForms.OptionsForm.resources
+D:\GitHub\GitHub — копия\WMWidgetForms\bin\Debug\WMWidgetForms.exe.config
+D:\GitHub\GitHub — копия\WMWidgetForms\bin\Debug\WMWidgetForms.exe
+D:\GitHub\GitHub — копия\WMWidgetForms\bin\Debug\WMWidgetForms.pdb
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.csproj.AssemblyReference.cache
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.Main.resources
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.MoreInfo.resources
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.OptionsForm.resources
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.Properties.Resources.resources
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.csproj.GenerateResource.cache
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.csproj.CoreCompileInputs.cache
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.exe
+D:\GitHub\GitHub — копия\WMWidgetForms\obj\Debug\WMWidgetForms.pdb

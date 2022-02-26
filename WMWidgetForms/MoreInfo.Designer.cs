@@ -111,10 +111,10 @@
             // titleLabel
             // 
             this.titleLabel.AutoSize = true;
-            this.titleLabel.Font = new System.Drawing.Font("Core Sans N", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.titleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.titleLabel.Location = new System.Drawing.Point(34, 6);
             this.titleLabel.Name = "titleLabel";
-            this.titleLabel.Size = new System.Drawing.Size(33, 17);
+            this.titleLabel.Size = new System.Drawing.Size(34, 16);
             this.titleLabel.TabIndex = 2;
             this.titleLabel.Text = "Title";
             this.titleLabel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.navPanel_MouseDown);
@@ -154,6 +154,7 @@
             this.settingsButton.Size = new System.Drawing.Size(27, 27);
             this.settingsButton.TabIndex = 2;
             this.settingsButton.UseVisualStyleBackColor = true;
+            this.settingsButton.Click += new System.EventHandler(this.SettingsButtonOnClick);
             // 
             // dataGridView1
             // 

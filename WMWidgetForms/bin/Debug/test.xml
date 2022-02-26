@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog>
+<shop>
+<currencies><currency id="RUR" rate="1" plus="0"/></currencies>
+<categories>
+<category id="899981" sort_order="0">Смартфоны</category>
+</categories>
+<offers>
+<offer available="true" type="vendor.model" id="89096"><currencyId>RUB</currencyId><delivery>true</delivery><description>Камера - 5 Мпикс</description><local_delivery_cost>0</local_delivery_cost><manufacturer_warranty>true</manufacturer_warranty><model>Galaxy Core Prime SM-G360H Grey</model><modified_time>1434431028</modified_time><name>Смартфон Samsung</name><param name="Глубина">0.8, см</param><param name="Ширина">6.8, см</param><param name="Дисплей">4,5"</param><param name="Стандарт">GSM, 3G</param><param name="Тип дисплея">TFT</param><param name="Камера">5 Мпикс</param><param name="Оперативная память">1Гб</param><param name="Операционная система">Android</param><param name="Карта памяти">microSD (TransFlash) до 64Гб</param><param name="Тип процессора">четырехъядерный</param><param name="Количество цветов">16 млн. цветов</param><param name="Цвет">серый</param><param name="Запись видео">30 кадров/сек.</param><param name="Маx разрешение при видео">1280x720</param><param name="Время в режиме разговора">до 10 часов</param><param name="Wi-Fi">802.11 b/g/n</param><param name="Частота">1,2 ГГц</param><param name="Разрешение дисплея">480х800</param><param name="Время воспроизведения музыки">до 40 часов</param><param name="GPS">есть</param><param name="Камера для видеоконференций">2 Мпикс</param><param name="Высота">13.1, см</param><param name="Вес">133 г</param><param name="Емкость аккумулятора">2000 мАч</param><pickup>true</pickup><picture>http://static.ru/111.jpg</picture><price>7999.00</price><store>true</store><typePrefix>Смартфон</typePrefix><url>https://site.ru/catalog</url><vendor>Samsung</vendor><vendorCode>SM-G360HHADSER</vendorCode></offer><categoryId>899981</categoryId>
+</offers></shop></yml_catalog>
